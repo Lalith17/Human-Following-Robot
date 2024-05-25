@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/futurevista.git
+git clone https://github.com/Lalith17/Human-Following-Robot.git
 Open the project in Arduino IDE:
 
 Open file in the Arduino IDE.
